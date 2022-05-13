@@ -2,15 +2,21 @@ body{
 	background-color: white;
 }
 h1{
-	color:#13a88f;
-	border:10px inset blue; 
-	/* solid, dottet dashed inset outset hidden none*/ 
-	border-left: 5px solid green;
-	border-radius: 20px;
+	color:black;
+	border:1px solid black; 
+	border-radius: 30px;
+	text-align: center;
+	background-color: black;
+	color:white;
+	margin: 30px auto
+	/*
+	margin: 30px 70px 150px 20px
+	*/
 }
 
 p{
-	color:blue;
+	color:red;
+	margin-left: 20px;
 }
 
 .exemplo-back{	

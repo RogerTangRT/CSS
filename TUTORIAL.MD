@@ -52,3 +52,16 @@ A diferença do background-color, background-image para o background é que o ba
 ## 7. Propriedade Borda
 
 ## 8. Propriedade Margin
+
+## 9. Propriedade Padding e Criando um botão Simples
+
+    padding-top: 50px;
+    padding-bottom: 20px;
+    padding-left: 10px;
+    padding-right: 70px;
+
+    padding: 50px 70px 20px 10px;
+
+Preenchimento uniforme
+
+    padding: 50px

@@ -3,20 +3,33 @@ body{
 }
 h1{
 	color:white;
+	background-color: black;
 	border:1px solid black; 
 	border-radius: 30px;
 	text-align: center;
-	background-color: black;
 }
 
 p{
 	color:red;
 	margin-left: 20px;
-	margin-bottom: 40px;
 }
 
 .exemplo-back{	
-	height: 300px;
+	height: 100px;
 	background:gray url("../img/background.jpg") no-repeat center;
 	background-size: cover;
+	margin-bottom: 100px;
+}
+
+.botao{
+	margin-left: 33%;
+	background:green;
+	color:whitesmoke;
+	padding: 30px 50px 30px 50px; 
+	border-radius: 30px;
+	/* Para tirar o subescrito do link*/
+	text-decoration: none;
+}
+.botao:hover{
+	background:blue;
 }

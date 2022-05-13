@@ -17,3 +17,10 @@ Prioridade para cada estilo:
 ## 4. Seletores e Classes
 
 Qual elemento HTML que deseja-se trabalhar
+
+id - Apenas para um elemento
+class - Todos elementos de um determinado seletor
+
+"\*" - Para todos os seletores
+
+. O nome do identificador e das classes não pode começar com número

@@ -1,10 +1,22 @@
-body{
-	background: #ccc;
+*{
+	padding: 20px;
 }
-p{
-	color: red;
+body{
+	background: rgb(235, 235, 235);
 }
 
+.vermelho{
+	color: red;
+}
 .center{
 	text-align: center;
+}
+
+.fonte-30{
+	font-size: 30px;
+}
+
+#teste{
+	color:blue;
+	background: yellow;
 }

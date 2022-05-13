@@ -69,3 +69,5 @@ Preenchimento uniforme
 ## 10. Propriedade width e heigth
 
 ## 11. Propriedade texto
+
+## 12. Propriedade font

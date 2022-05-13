@@ -1,9 +1,12 @@
 body{
-	/* background: cornflowerblue; */
 	background-color: white;
 }
 h1{
-	color:#13a88f
+	color:#13a88f;
+	border:10px inset blue; 
+	/* solid, dottet dashed inset outset hidden none*/ 
+	border-left: 5px solid green;
+	border-radius: 20px;
 }
 
 p{
@@ -11,25 +14,9 @@ p{
 }
 
 .exemplo-back{	
-	/*
-	height: 300px;
-	background-color: gray;
-	background-image: url("../img/background.jpg");
-	background-size: cover; 
-	*/
-
-	/*
-	Repete a imagem em x ou y
-	background-size: contain;
-	background-repeat: repeat-x;
-	background-repeat: repeat-y;
-	Sem repetição
-	background-repeat: no-repeat;
-	Posição inicial da imagem
-	background-position: center;
-	
-	*/
 	height: 300px;
 	background:gray url("../img/background.jpg") no-repeat center;
 	background-size: cover;
+
+
 }

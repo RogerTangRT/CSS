@@ -48,3 +48,5 @@ O nome do identificador e das classes não pode começar com número
 ## 6. Propriedade Background
 
 A diferença do background-color, background-image para o background é que o background aceita ddiversos parâmetros ao mesmo tempo
+
+## 7. Propriedade Borda

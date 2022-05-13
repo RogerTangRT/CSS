@@ -33,3 +33,10 @@ p{
 .botao:hover{
 	background:blue;
 }
+
+.teste{
+
+	max-width: 800px;
+	height: 150px;
+	background-color: cyan;
+}

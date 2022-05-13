@@ -65,3 +65,5 @@ A diferença do background-color, background-image para o background é que o ba
 Preenchimento uniforme
 
     padding: 50px
+
+## 10. Propriedade width e heigth

@@ -1,7 +1,31 @@
+body{
+	/* background: cornflowerblue; */
+	background-color: white;
+}
 h1{
 	color:#13a88f
 }
 
 p{
 	color:blue;
+}
+
+.exemplo-back{	
+	height: 300px;
+	background-color: gray;
+	background-image: url("../img/background.jpg");
+	background-size: cover; 
+	
+
+	/*
+	Repete a imagem em x ou y
+	background-size: contain;
+	background-repeat: repeat-x;
+	background-repeat: repeat-y;
+	Sem repetição
+	background-repeat: no-repeat;
+	Posição inicial da imagem
+	background-position: center;
+	
+	*/
 }

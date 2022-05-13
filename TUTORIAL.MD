@@ -44,3 +44,5 @@ div{
 O nome do identificador e das classes não pode começar com número
 
 ## 5. Propriedade Color
+
+## 6. Propriedade Background

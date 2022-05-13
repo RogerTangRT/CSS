@@ -67,3 +67,5 @@ Preenchimento uniforme
     padding: 50px
 
 ## 10. Propriedade width e heigth
+
+## 11. Propriedade texto

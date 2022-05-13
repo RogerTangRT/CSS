@@ -7,11 +7,19 @@ h1{
 	border:1px solid black; 
 	border-radius: 30px;
 	text-align: center;
+	letter-spacing: 2px;
 }
 
 p{
-	color:red;
-	margin-left: 20px;
+	color:black;
+	text-align: justify;
+	/*
+	text-decoration:line-through ;*/
+	text-transform: capitalize;
+	text-indent: 50px;
+	line-height: 1.5;
+	word-spacing: 10px;
+	
 }
 
 .exemplo-back{	
